@@ -12,4 +12,9 @@ repo][zet].
 
 * [Kubernetes Certifications, Which and Why?](https://github.com/rwxrob/zet/tree/main/20210723173826)
 
+## Comments from Those Who Have Taken Cert Exams
+
+> "I failed my CKA exam. I got a question that was not in the 200 dollar
+> training on the CNCF site. Failed 2 times and that same problem issue
+> question killed me and was 8 points."
 
