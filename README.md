@@ -16,7 +16,7 @@ Only the following resources are allowed on the certification exams.
 Therefore, these are the primary resources to read and even memorize
 when creating your own learning lab scenarios.
 
-* <https://kubernetes.io/doc>
+* <https://kubernetes.io/docs>
 * <https://kubernetes.io/blog>
 * <https://github.com/kubernetes>
 
@@ -27,6 +27,7 @@ when creating your own learning lab scenarios.
 * [Just RTFM as Major Method to Learn Kubernetes](https://github.com/rwxrob/zet/tree/main/20210723185807)
 * [Don't Bother with Kubernetes Until Shell-Native](https://github.com/rwxrob/zet/tree/main/20210723192724)
 * [Get `kind` to Start Exploring Kubernetes](https://github.com/rwxrob/zet/tree/main/20210723194437)
+* [Get Used to Reading Docs Like on Kubernetes Exam](https://github.com/rwxrob/zet/tree/main/20210723200406)
 
 ## Related Reading
 
