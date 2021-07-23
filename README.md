@@ -3,7 +3,7 @@
 This is the notes and progress from our unstructured colearning sessions
 to learn Kubernetes well enough to certify for the CKA and CKAD (not
 necessarily in that order). They are recorded live on [Twitch] and saved
-to [YouTube]. Much of my conclusions are captured in my [Zettelkasten
+to [YouTube]. Many of my conclusions are captured in my [Zettelkasten
 repo][zet].
 
 [YouTube]: https://youtube.com/playlist?list=PLrK9UeDMcQLrdJXVPK9IYSPYRCpjTWmfJ
@@ -20,7 +20,12 @@ when creating your own learning lab scenarios.
 * <https://kubernetes.io/blog>
 * <https://github.com/kubernetes>
 
-## Zettel-Casting Content
+## Zettel Casts
+
+These are the relevant videos (under 10 minutes each) in no particular
+order. I've been adding them to the list at the end when I make a
+discovery or conclusion, or change in direction, so probably best to
+watch in order if you are inclined.
 
 * [Kubernetes Certifications, Which and Why?](https://github.com/rwxrob/zet/tree/main/20210723173826)
 * [Should I Use Kubernetes `killer.sh` to Prepare](https://github.com/rwxrob/zet/tree/main/20210723181441)
