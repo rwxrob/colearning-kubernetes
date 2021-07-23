@@ -10,5 +10,6 @@ repo][zet].
 [Twitch]: https://twitch.tv/rwxrob
 [zet]: https://github.com/rwxrob/zet
 
-* [Kubernetes Certifications, Which and Why?](https://github.com/rwxrob/zet/20210723173826)
+* [Kubernetes Certifications, Which and Why?](https://github.com/rwxrob/zet/tree/main/20210723173826)
+
 
