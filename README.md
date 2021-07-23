@@ -11,6 +11,12 @@ repo][zet].
 [zet]: https://github.com/rwxrob/zet
 
 * [Kubernetes Certifications, Which and Why?](https://github.com/rwxrob/zet/tree/main/20210723173826)
+* [Should I Use Kubernetes `killer.sh` to Prepare](https://github.com/rwxrob/zet/tree/main/20210723181441)
+* [Just RTFM as Major Method to Learn Kubernetes](https://github.com/rwxrob/zet/tree/main/20210723185807)
+
+https://www.infoq.com/articles/microservicilities-istio/
+
+Microservices history I think you should start at 12FA by│Adam Wiggins who created heroku
 
 ## Comments from Those Who Have Taken Cert Exams
 
